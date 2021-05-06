@@ -1,0 +1,14 @@
+{
+    "Ronaldo":{
+        "Surname": "dos Santos",
+        "Phone Number": {
+            "Home" : 12345678,
+            "Mobile" : 239124
+        },
+    "Active": true,
+    "Address": {
+        "Permanent": "USA",
+        "Current": "Portugal"
+    }
+  }
+}
